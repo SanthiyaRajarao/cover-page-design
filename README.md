@@ -85,7 +85,7 @@ Run the program.
 </html>
 ```
 ## Output:
-![output](bookcover.png)
+![output](book.jpeg)
 
 ## Result:
 Thus the program executed successfully.
